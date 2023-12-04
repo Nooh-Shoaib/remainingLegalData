@@ -1,52 +1,6 @@
 {
   "pagedata": [
     {
-      "slug": "about-us",
-      "id": "about-us",
-      "pagetitle": "About Us",
-      "description": [
-        {
-        "firsttext": "Based in Brooklyn NY, Sireprinting.com is a family-owned printing and packaging company having a strict emphasis on providing environmentally friendly printing and packaging solutions to its esteemed clients."
-        },{
-          "heading": "HOW DO WE SERVE YOU?",
-          "text":"We at sireprinting.com provide personalized and economical packaging & printing for all the personal and professional requirements of our clients. We have advanced high-end technology to guarantee that all the product packaging boxes we produce have top-notch quality without putting a dent in our client’s wallet. Our seasoned and highly committed team of proficient designers furnish your products with fantastic artwork and eye-dazzling layouts."
-        },{
-          "heading": "CUSTOMIZED PRODUCT PACKAGING SERVICES",
-          "text": "Every order you place at sireprinting.com is professionally dealt with deep care and concentration to ensure premium quality and striking results. As mentioned previously, we have a great zeal to promote environment-friendly product packaging that is not dangerous to the environment. Kraft boxes, Cardboard boxes, Rigid & Corrugated boxes, Window boxes, Die-cut boxes, and a complete range of packages for special occasions and celebrations events are our specific fields of interest and packaging know-how. Aside from these, our company is known for all sorts of product categories, whether these are gaming boxes, medicinal product packaging, or any other niche you deal in or produce under your banner. You need to state a reason for the package, and we will see to it according to your demand. Due to years of experience in the packaging and printing industry."
-        },{
-          "heading": "CLIENT SATISFACTION, OUR MOST PRECIOUS ASSET",
-          "text": "We utilize the environment and customer-friendly raw material for printing boxes without compromising the top quality. Our competent and experienced employees enable you to experience flawless printing. We can effectively cater to tiny in addition to bulk orders within the stipulated amount of time. We likewise offer a unique price cut provided now and then to maintain our consumers happiness level."
-        }
-      ]
-    },
-    {
-      "slug": "privacy-policy",
-      "id": "privacy-policy",
-      "image": "https://s3.amazonaws.com/sireprinting.com/images/privacy_policy-min_m8yc0d.webp",
-      "pagetitle": "Privacy Policy",
-      "description": [
-        {
-          "heading": "PRIVACY AND SECURITY",
-          "text": "Sireprinting.com is strictly committed to keeping the privacy of its consumers intact and secure. We never share, sell, or otherwise disclose details about our customers to any other party except as called for to process and ship acquisitions. We promise and make sure not to spam you."
-        },{
-          "heading": "INFORMATION DATA ACCUMULATION",
-          "text": "Sireprinting.com is the sole owner of the information accumulated on www.sireprinting.com. We gather info from our users, customers, and site visitors at several various factors on our Web site. Various domains of our web server collect individual info about the customer details gathered from different locations. All that information is kept in log data that contain site visitors' domain name, IP address information, internet browser name, date/time of browse through which the site was visited."
-        },{
-          "heading": "CUSTOMER SUPPORT",
-          "text": "We use our website to offer our customers a flawless user experience not to be found anywhere. For that, we communicate with users often to offer asked for services and suggestions for improvements. Our production and customer care team makes use of live chat, email, and phone information to communicate with clients regarding problems associated with the in-process order."
-        },{
-          "heading": "COOKIES & LOG FILES",
-          "text": "A cookie is an item of information saved on the user's computer system linked to info regarding the user who visited our site in any position. We utilize relentless cookies to facilitate user experience. A relentless cookie is a tiny text file saved on the individual's hard drive for an extended period. These cookies can be eliminated by complying with browser assistance file instructions at your computer about the specific browser being used. Like the majority of standard site web servers, we also make use of log files and documents. "
-        },{
-          "heading": "CUSTOMER SUPPORT",
-          "text": "We use our website to offer our customers a flawless user experience not to be found anywhere. For that, we communicate with users often to offer asked for services and suggestions for improvements. Our production and customer care team makes use of live chat, email, and phone information to communicate with clients regarding problems associated with the in-process order."
-        },{
-          "heading": "SUPPLEMENTS OF INFORMATION",
-          "text": "Suppose we decide to transform our privacy policy. In that case, we will certainly post those modifications to this personal privacy declaration, the homepage, and also various other places we deem appropriate, so our users are always aware of what information we gather, how we use it, and under what scenarios, if any, we divulge it. We will use info by the privacy plan under which the info was gathered. Suppose nonetheless, we will use users' personally identifiable information in a way different from that specified one at the time of collection. In that case, we will certainly inform customers using email or any other specified and agreed upon the source. Users will have a choice regarding whether or not we utilize their information in this various manner."
-        }
-      ]
-    },
-    {
       "slug": "terms-conditions",
       "id": "terms-conditions",
       "image": "https://s3.amazonaws.com/sireprinting.com/images/terms_conditions-min_yqkb7x.webp",
