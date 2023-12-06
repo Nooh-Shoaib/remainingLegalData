@@ -1,8 +1,8 @@
 {
  "pagedata": [
  {
-"link": "terms-conditions"
- "id": "1",
+"slug": "terms-conditions"
+"id": "terms-conditions"
  "image": "https://s3.amazonaws.com/sireprinting.com/images/terms_conditions-min_yqkb7x.webp",
  "pagetitle": "Terms & Conditions",
  "description": [
